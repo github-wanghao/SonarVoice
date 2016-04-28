@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android-Workplace\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\raw\\begin.mp3",
+        "source": "D:\\Android-Workplace\\SonarVoice\\DDvoice\\src\\main\\res\\raw\\begin.mp3"
+    },
+    {
+        "merged": "D:\\Android-Workplace\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\raw\\lock.mp3",
+        "source": "D:\\Android-Workplace\\SonarVoice\\DDvoice\\src\\main\\res\\raw\\lock.mp3"
+    }
+]

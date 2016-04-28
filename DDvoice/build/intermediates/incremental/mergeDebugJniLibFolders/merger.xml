@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Android-Workplace\SonarVoice\DDvoice\src\main\jniLibs"><file name="armeabi/libmsc.so" path="D:\Android-Workplace\SonarVoice\DDvoice\src\main\jniLibs\armeabi\libmsc.so"/><file name="armeabi_offline/libmsc_offline.so" path="D:\Android-Workplace\SonarVoice\DDvoice\src\main\jniLibs\armeabi_offline\libmsc_offline.so"/></source></dataSet><dataSet config="debug"><source path="D:\Android-Workplace\SonarVoice\DDvoice\src\debug\jniLibs"/></dataSet></merger>
